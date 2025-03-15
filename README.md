@@ -1,5 +1,11 @@
 # Research AI Assistant 🔍
 
+
+
+https://github.com/user-attachments/assets/3ba62e9a-ac18-4932-882c-7241cffa6016
+
+
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.22.0-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.20-blue?style=for-the-badge)](https://www.langchain.com/)
